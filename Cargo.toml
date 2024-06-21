@@ -1,0 +1,10 @@
+[package]
+name = "rust-bench-output"
+authors = ["Carl Wachter <carl.wachter@rwth-aachen.de>"]
+version = "0.1.0"
+edition = "2021"
+description = "A library to interface to the hermit-bench benchmarking framework."
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+[dependencies]
