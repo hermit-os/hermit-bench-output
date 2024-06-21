@@ -1,5 +1,5 @@
 [package]
-name = "rust-bench-output"
+name = "hermit_bench_output"
 authors = ["Carl Wachter <carl.wachter@rwth-aachen.de>"]
 version = "0.1.0"
 edition = "2021"

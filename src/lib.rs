@@ -1,5 +1,5 @@
 /// Log benchmark data to stdout, so it can be captured by the benchmarking framework hermit-bench.
-/// 
+///
 /// * `benchmark_name` - The name under which the benchmark will be stored.
 /// * `unit` - The unit of the benchmark value.
 /// * `value` - The benchmark value.

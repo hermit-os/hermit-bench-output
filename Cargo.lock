@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust-bench-output"
+name = "hermit_bench_output"
 version = "0.1.0"
